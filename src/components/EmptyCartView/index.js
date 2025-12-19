@@ -1,7 +1,6 @@
 import {Link} from 'react-router-dom'
 
 import './index.css'
-
 const EmptyCartView = () => (
   <div className="cart-empty-view-container">
     <img
