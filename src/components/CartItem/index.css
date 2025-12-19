@@ -6,7 +6,6 @@
   margin-bottom: 16px;
   box-shadow: 0px 4px 16px 0px #eaebed;
 }
-
 @media screen and (min-width: 768px) {
   .cart-item {
     margin-bottom: 32px;
