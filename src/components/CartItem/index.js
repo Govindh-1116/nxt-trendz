@@ -74,5 +74,4 @@ const CartItem = props => (
     }}
   </CartContext.Consumer>
 )
-
 export default CartItem
