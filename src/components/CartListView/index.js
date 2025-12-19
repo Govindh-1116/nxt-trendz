@@ -2,7 +2,6 @@ import CartItem from '../CartItem'
 import CartContext from '../../context/CartContext'
 
 import './index.css'
-
 const CartListView = () => (
   <CartContext.Consumer>
     {value => {
