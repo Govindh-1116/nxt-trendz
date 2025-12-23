@@ -9,6 +9,7 @@ const CartSummary = () => (
       cartList.forEach(eachCartItem => {
         total += eachCartItem.price * eachCartItem.quantity
       })
+  
 
       return (
         <>
