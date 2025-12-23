@@ -7,6 +7,7 @@ import ProductsHeader from '../ProductsHeader'
 
 import './index.css'
 
+
 const categoryOptions = [
   {
     name: 'Clothing',
