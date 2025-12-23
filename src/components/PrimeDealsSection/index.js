@@ -12,6 +12,7 @@ const apiStatusConstants = {
   inProgress: 'IN_PROGRESS',
 }
 
+
 class PrimeDealsSection extends Component {
   state = {
     primeDeals: [],
