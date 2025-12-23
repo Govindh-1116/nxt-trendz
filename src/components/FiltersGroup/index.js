@@ -4,6 +4,7 @@ import './index.css'
 const FiltersGroup = props => {
   const renderRatingsFiltersList = () => {
     const {ratingsList} = props
+    
 
     return ratingsList.map(rating => {
       const {changeRating, activeRatingId} = props
