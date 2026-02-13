@@ -19,5 +19,4 @@ const EmptyCartView = () => (
   </div>
 )
 
-
 export default EmptyCartView

@@ -4,7 +4,6 @@
   min-height: 75vh;
 }
 
-
 @media screen and (min-width: 768px) {
   .cart-container {
     min-height: 90vh;

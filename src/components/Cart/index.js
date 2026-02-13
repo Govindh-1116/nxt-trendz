@@ -6,7 +6,6 @@ import CartSummary from '../CartSummary'
 
 import './index.css'
 
-
 const Cart = () => (
   <CartContext.Consumer>
     {value => {
